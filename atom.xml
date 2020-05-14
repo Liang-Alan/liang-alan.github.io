@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liang-alan.github.io</id>
     <title>3407</title>
-    <updated>2020-05-14T11:50:43.380Z</updated>
+    <updated>2020-05-14T13:15:01.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liang-alan.github.io"/>
     <link rel="self" href="https://liang-alan.github.io/atom.xml"/>
@@ -11,76 +11,26 @@
     <icon>https://liang-alan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 3407</rights>
     <entry>
-        <title type="html"><![CDATA[2015]]></title>
-        <id>https://liang-alan.github.io/post/2015/</id>
-        <link href="https://liang-alan.github.io/post/2015/">
+        <title type="html"><![CDATA[团队成员]]></title>
+        <id>https://liang-alan.github.io/post/tuan-dui-cheng-yuan/</id>
+        <link href="https://liang-alan.github.io/post/tuan-dui-cheng-yuan/">
         </link>
-        <updated>2020-05-14T11:42:37.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>Kong, L. and Cui, M., High-speed in vivo volumetric deep tissue imaging by remote focusing and wavefront compensation, Proc. of SPIE 9335-14 (2015) (特邀报告)</li>
-<li>Lingjie Kong and Meng Cui, &quot;In vivo neuroimaging through the highly scattering tissue via iterative multi-photon adaptive compensation technique,&quot; Optics Express 23, 6145-6150 (2015)</li>
-<li>Lingjie Kong, Jianyong Tang, Justin P. Little, Yang Yu, Tim Lämmermann, Charles P. Lin, Ronald N. Germain and Meng Cui, &quot;Continuous volumetric imaging via an optical phase-locked ultrasound lens, &quot; Nature Methods 12, 759–762 (2015)</li>
-</ol>
+        <updated>2020-05-14T12:49:27.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://liang-alan.github.io/post-images/1589460637752.jpg" alt="" loading="lazy"><br>
+孔令杰 副教授、博导<br>
+2016年入选第十三批“千人计划”青年项目。2012年在清华大学获得工学博士学位，随后在哈佛大学、霍华德·休斯医学研究所Janelia研究校园、普渡大学从事博士后研究，2017年加入清华大学精密仪器系。<br>
+<img src="https://liang-alan.github.io/post-images/1589460748854.jpg" alt="" loading="lazy"><br>
+郭晶晶，博士后。2018年1月获得清华大学博士学位。2018.4加入。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2016]]></title>
-        <id>https://liang-alan.github.io/post/2016/</id>
-        <link href="https://liang-alan.github.io/post/2016/">
+        <title type="html"><![CDATA[发表论文]]></title>
+        <id>https://liang-alan.github.io/post/fa-biao-lun-wen/</id>
+        <link href="https://liang-alan.github.io/post/fa-biao-lun-wen/">
         </link>
-        <updated>2020-05-14T11:41:32.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>Kong, L. and Cui, M., In vivo imaging flow cytometry based on laser-scanning two-photon microscopy at kHz cross-sectional frame rate, SPIE Photonics West 2016, San Francisco, CA, Feb. 13-18 (2016), paper 9712-59 (JenLab Young Investigator Award Paper)</li>
-<li>Kong, L. and Cui, M., Volumetric imaging of fast biological dynamics in deep tissue via wavefront engineering, SPIE Photonics West 2016, San Francisco, CA, Feb. 13-18 (2016), paper 9717-18 (特邀报告)</li>
-<li>Kong, L., In vivo volumetric imaging of fast biological dynamics in deep tissue via wavefront engineering, International Conference on Laser Application in Life Science, Shenzhen, China, Oct. 14-18 (2016) (特邀报告)</li>
-<li>Lingjie Kong#, Justin P. Little, and Meng Cui#, &quot;Motion quantification during functional imaging in awake behaving animals,&quot; Biomedical Optics Express, 7(9), 3686 (2016)</li>
-<li>Lingjie Kong, Jianyong Tang, and Meng Cui, “In vivo volumetric imaging of biological dynamics in deep tissue via wavefront engineering, ” Optics Express 24 (2), 1214-1221 (2016)</li>
-<li>Lingjie Kong#, Jianyong Tang, and Meng Cui#, &quot;Multicolor, multiphoton in vivo imaging flow cytometry,&quot; Optics Express 24 (6), 6126-6135 (2016) (#共通讯作者)</li>
-<li>Lingjie Kong# and Meng Cui#, “In vivo Deep Tissue Imaging via Iterative Multi-photon Adaptive Compensation Technique,” IEEE Journal of Selected Topics in Quantum Electronics, 22 (4), 6803010 (2016) (特邀论文, #共通讯作者)</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2017]]></title>
-        <id>https://liang-alan.github.io/post/2017/</id>
-        <link href="https://liang-alan.github.io/post/2017/">
-        </link>
-        <updated>2020-05-14T11:29:21.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>
-<p>Ziwei Li, Jia Hou, Jinli Suo, Chang Qiao, Lingjie Kong, and Qionghai Dai, “Contrast and resolution enhanced optical sectioning in scattering tissue using line-scanningtwo-photon structured illumination microscopy”, Optics Express 25(25), 32010-32020 (2017)</p>
-</li>
-<li>
-<p>Yan Li, Xiaosheng Xiao, Lingjie Kong, and Changxi Yang, “Fiber Supercontinuum Source for Broadband-CARS Microspectroscopy Based on a Dissipative Soliton Laser”, IEEE Photonics Journal 9(4), 3900807 (2017)</p>
-</li>
-<li>
-<p>Jung-Hoon Park*, Lingjie Kong*, Yifeng Zhou and Meng Cui，Large-field-of-view imaging by multi-pupil adaptive optics, Nature Methods 2017, doi:10.1038/nmeth.4290 (*共一作)</p>
-</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2018]]></title>
-        <id>https://liang-alan.github.io/post/2018/</id>
-        <link href="https://liang-alan.github.io/post/2018/">
-        </link>
-        <updated>2020-05-14T11:28:23.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>Jingjing Guo, Hanxi Huang, Minjuan Zhou, Changxi Yang, and Lingjie Kong*, Quantum Dots-Doped Tapered Hydrogel Waveguide for Ratiometric Sensing of Metal Ions, Anal. Chem. 90 (20), 12292-12298 (2018)</li>
-<li>Jingjing Guo, Yuqing Luo, Changxi Yang, and Lingjie Kong*, In situ surface-enhanced Raman scattering sensing with soft and flexible polymer optical fiber probes, Optics Letters 43 (21), 5443-5446 (2018)</li>
-<li>Yuanlong Zhang, Lingjie Kong, Hao Xie, Xiaofei Han, and Qionghai Dai, Enhancing axial resolution and background rejection in line-scanning temporal focusing microscopy by focal modulation，Optics Express, Vol. 26, Issue 17, pp. 21518-21526 (2018)</li>
-<li>Lingjie Kong, Yifeng Zhou, and Meng Cui, Large-field-of-view imaging by multi-pupil adaptive optics, SPIE Photonics West 2018, Paper 10502-9 (Invited Paper)</li>
-<li>Jingjing Guo, Yihang Ding, Xiaosheng Xiao, Lingjie Kong*, and Changxi Yang*, Multiplexed static FBG strain sensors by dual-comb spectroscopy with a free running fiber laser, Opt. Express 26(13), 16147-16154 (2018) (* co-corresponding author)</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019]]></title>
-        <id>https://liang-alan.github.io/post/fa-biao-wen-zhang/</id>
-        <link href="https://liang-alan.github.io/post/fa-biao-wen-zhang/">
-        </link>
-        <updated>2020-05-14T11:03:13.000Z</updated>
-        <content type="html"><![CDATA[<ol>
+        <updated>2020-05-14T12:41:17.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="2019">2019</h1>
+<ol>
 <li>Ruheng Shi, Cheng Jin, Hao Xie, Yuanlong Zhang, Xinyang Li, Qionghai Dai, and Lingjie Kong, Multi-plane, wide-field fluorescent microscopy for biodynamic imaging in vivo, Biomedical Optics Express 10(12), 6625-6635 (2019)</li>
 <li>Xinyang Li, Yuanlong Zhang, Kan Liu, Hao Xie, Haoqian Wang, Lingjie Kong, and Qionghai Dai, Adaptive optimization for axial multi-foci generation in multiphoton microscopy, Optics Express 27(24), 35948-35961 (2019)</li>
 <li>Jingjing Guo, Bingqian Zhou, Changxi Yang, Qionghai Dai, and Lingjie Kong， Stretchable and upconversion-luminescent polymeric optical sensor for wearable multifunctional sensing， Optics Letters 44(23), 5747-5750 (2019)</li>
@@ -91,6 +41,48 @@
 <li>Jingjing Guo, Bingqian Zhou, Changxi Yang, Qionghai Dai, and Lingjie Kong, Stretchable and Temperature‐Sensitive Polymer Optical Fibers for Wearable Health Monitoring, Advanced Functional Materials, https://doi.org/10.1002/adfm.201902898</li>
 <li>Jingjing Guo, Kangjun Zhao, Bingqian Zhou, Wen Ning, Kaili Jiang, Changxi Yang, Lingjie Kong, and Qionghai Dai, Wearable and Skin‐Mountable Fiber‐Optic Strain Sensors Interrogated by a Free‐Running, Dual‐Comb Fiber Laser, Advanced Optical Materials, https://doi.org/10.1002/adom.201900086</li>
 <li>Yuanlong Zhang, Xinyang Li, Hao Xie, Lingjie Kong*, and Qionghai Dai, Hybrid spatio-spectral coherent adaptive compensation for line-scanning temporal focusing microscopy, J. Phys. D: Appl. Phys. 52, 024001 (2019) （入选Emerging Leaders 2019专辑）</li>
+</ol>
+<h1 id="2018">2018</h1>
+<ol>
+<li>Jingjing Guo, Hanxi Huang, Minjuan Zhou, Changxi Yang, and Lingjie Kong*, Quantum Dots-Doped Tapered Hydrogel Waveguide for Ratiometric Sensing of Metal Ions, Anal. Chem. 90 (20), 12292-12298 (2018)</li>
+<li>Jingjing Guo, Yuqing Luo, Changxi Yang, and Lingjie Kong*, In situ surface-enhanced Raman scattering sensing with soft and flexible polymer optical fiber probes, Optics Letters 43 (21), 5443-5446 (2018)</li>
+<li>Yuanlong Zhang, Lingjie Kong, Hao Xie, Xiaofei Han, and Qionghai Dai, Enhancing axial resolution and background rejection in line-scanning temporal focusing microscopy by focal modulation，Optics Express, Vol. 26, Issue 17, pp. 21518-21526 (2018)</li>
+<li>Jingjing Guo, Yihang Ding, Xiaosheng Xiao, Lingjie Kong*, and Changxi Yang*, Multiplexed static FBG strain sensors by dual-comb spectroscopy with a free running fiber laser, Opt. Express 26(13), 16147-16154 (2018) (* co-corresponding author)</li>
+<li>Lingjie Kong, Yifeng Zhou, and Meng Cui, Large-field-of-view imaging by multi-pupil adaptive optics, SPIE Photonics West 2018, Paper 10502-9 (Invited Paper)</li>
+</ol>
+<h1 id="2017">2017</h1>
+<ol>
+<li>Ziwei Li, Jia Hou, Jinli Suo, Chang Qiao, Lingjie Kong, and Qionghai Dai, “Contrast and resolution enhanced optical sectioning in scattering tissue using line-scanningtwo-photon structured illumination microscopy”, Optics Express 25(25), 32010-32020 (2017)</li>
+<li>Yan Li, Xiaosheng Xiao, Lingjie Kong, and Changxi Yang, “Fiber Supercontinuum Source for Broadband-CARS Microspectroscopy Based on a Dissipative Soliton Laser”, IEEE Photonics Journal 9(4), 3900807 (2017)</li>
+<li>Jung-Hoon Park*, Lingjie Kong*, Yifeng Zhou and Meng Cui，Large-field-of-view imaging by multi-pupil adaptive optics, Nature Methods 2017, doi:10.1038/nmeth.4290 (*共一作)</li>
+</ol>
+<h1 id="2016">2016</h1>
+<ol>
+<li>Kong, L. and Cui, M., In vivo imaging flow cytometry based on laser-scanning two-photon microscopy at kHz cross-sectional frame rate, SPIE Photonics West 2016, San Francisco, CA, Feb. 13-18 (2016), paper 9712-59 (JenLab Young Investigator Award Paper)</li>
+<li>Kong, L. and Cui, M., Volumetric imaging of fast biological dynamics in deep tissue via wavefront engineering, SPIE Photonics West 2016, San Francisco, CA, Feb. 13-18 (2016), paper 9717-18 (特邀报告)</li>
+<li>Kong, L., In vivo volumetric imaging of fast biological dynamics in deep tissue via wavefront engineering, International Conference on Laser Application in Life Science, Shenzhen, China, Oct. 14-18 (2016) (特邀报告)</li>
+<li>Lingjie Kong#, Justin P. Little, and Meng Cui#, &quot;Motion quantification during functional imaging in awake behaving animals,&quot; Biomedical Optics Express, 7(9), 3686 (2016)</li>
+<li>Lingjie Kong, Jianyong Tang, and Meng Cui, “In vivo volumetric imaging of biological dynamics in deep tissue via wavefront engineering, ” Optics Express 24 (2), 1214-1221 (2016)</li>
+<li>Lingjie Kong#, Jianyong Tang, and Meng Cui#, &quot;Multicolor, multiphoton in vivo imaging flow cytometry,&quot; Optics Express 24 (6), 6126-6135 (2016) (#共通讯作者)</li>
+<li>Lingjie Kong# and Meng Cui#, “In vivo Deep Tissue Imaging via Iterative Multi-photon Adaptive Compensation Technique,” IEEE Journal of Selected Topics in Quantum Electronics, 22 (4), 6803010 (2016) (特邀论文, #共通讯作者)</li>
+</ol>
+<h1 id="2015">2015</h1>
+<ol>
+<li>Kong, L. and Cui, M., High-speed in vivo volumetric deep tissue imaging by remote focusing and wavefront compensation, Proc. of SPIE 9335-14 (2015) (特邀报告)</li>
+<li>Lingjie Kong and Meng Cui, &quot;In vivo neuroimaging through the highly scattering tissue via iterative multi-photon adaptive compensation technique,&quot; Optics Express 23, 6145-6150 (2015)</li>
+<li>Lingjie Kong, Jianyong Tang, Justin P. Little, Yang Yu, Tim Lämmermann, Charles P. Lin, Ronald N. Germain and Meng Cui, &quot;Continuous volumetric imaging via an optical phase-locked ultrasound lens, &quot; Nature Methods 12, 759–762 (2015)</li>
+</ol>
+<h1 id="2014">2014</h1>
+<ol>
+<li>Lingjie Kong and Meng Cui, &quot;In vivo fluorescence microscopy via iterative multi-photon adaptive compensation technique,&quot; Optics Express 22, 23786-23794 (2014)</li>
+</ol>
+<h1 id="2013">2013</h1>
+<ol>
+<li>Lingjie Kong*, Minbiao Ji*, Gary R. Holtom, Dan Fu, Christian W. Freudiger, and X. Sunney Xie，&quot;Multi-color stimulated Raman scattering microscopy with a rapidly tunable optical parametric oscillator,&quot; Optics Letters 38(2), 145-147 (2013)</li>
+</ol>
+<h1 id="2012">2012</h1>
+<ol>
+<li>L. J. Kong*, L. M. Zhao*, S. Lefrancois, …, and F. W. Wise,&quot;Generation of megawatt peak power picosecond pulses from a divided-pulse fiber amplifier, &quot; Optics Letters 37(2), 253-255 (2012) (*共第一作者)</li>
 </ol>
 ]]></content>
     </entry>
