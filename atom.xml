@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liang-alan.github.io</id>
-    <title>3407</title>
-    <updated>2020-05-14T16:15:21.150Z</updated>
+    <title>孔令杰老师课题组</title>
+    <updated>2020-05-15T07:28:01.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liang-alan.github.io"/>
     <link rel="self" href="https://liang-alan.github.io/atom.xml"/>
-    <subtitle>3407</subtitle>
+    <subtitle>孔令杰老师课题组</subtitle>
     <logo>https://liang-alan.github.io/images/avatar.png</logo>
     <icon>https://liang-alan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 3407</rights>
+    <rights>All rights reserved 2020, 孔令杰老师课题组</rights>
     <entry>
         <title type="html"><![CDATA[团队成员]]></title>
         <id>https://liang-alan.github.io/post/tuan-dui-cheng-yuan/</id>
